@@ -1,9 +1,6 @@
 
 # Movie Recommendation System with GUI
 
-This is an Algozenith Hackathon project.
-
-
 
 ## Problem Statement
 
